@@ -1,0 +1,42 @@
+[
+    {
+        "ID": "1",
+        "Klase": "12.1.",
+        "Skolena vards": "Edgars",
+        "Skolena uzvards": "Ozols",
+        "menesis": "Marts",
+        "Maksa pusdienam": "30"
+    },
+    {
+        "ID": "2",
+        "Klase": "10.3.",
+        "Skolena vards": "Dainis",
+        "Skolena uzvards": "Bernans",
+        "menesis": "Janvaris",
+        "Maksa pusdienam": "24"
+    },
+    {
+        "ID": "3",
+        "Klase": "11.1.",
+        "Skolena vards": "Jazeps",
+        "Skolena uzvards": "Augustans",
+        "menesis": "Septembris",
+        "Maksa pusdienam": "21.5"
+    },
+    {
+        "ID": "4",
+        "Klase": "12.2/3.",
+        "Skolena vards": "Janis",
+        "Skolena uzvards": "Gudriks",
+        "menesis": "Augusts",
+        "Maksa pusdienam": "33"
+    },
+    {
+        "ID": "5",
+        "Klase": "9.1.",
+        "Skolena vards": "Maksims",
+        "Skolena uzvards": "Rogozins",
+        "menesis": "Marts",
+        "Maksa pusdienam": "16.5"
+    }
+]
